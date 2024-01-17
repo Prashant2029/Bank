@@ -20,7 +20,7 @@ This is a simple Bank System implemented using Object-Oriented Programming (OOP)
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/BankSystem.git
+    git clone https://github.com/Prashant2029/Bank.git      
     cd BankSystem
     ```
 
@@ -51,6 +51,4 @@ This is a simple Bank System implemented using Object-Oriented Programming (OOP)
 
 Contributions are welcome! If you have ideas for improvements or find any issues, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
